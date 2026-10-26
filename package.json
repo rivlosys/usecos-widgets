@@ -1,0 +1,28 @@
+{
+  "name": "usecos-widgets",
+  "version": "1.0.0",
+  "description": "Embeddable Canadian financial calculators & automotive lookup widgets (GST/HST, Mortgage Stress Test, NHTSA VIN Decoder)",
+  "main": "index.js",
+  "keywords": [
+    "canada",
+    "gst-calculator",
+    "hst-calculator",
+    "mortgage-calculator",
+    "stress-test",
+    "vin-decoder",
+    "nhtsa",
+    "embed-widget",
+    "financial-tools",
+    "usecos"
+  ],
+  "author": "Rivlosys / UseCOS Team",
+  "license": "MIT",
+  "homepage": "https://usecos.app/widgets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivlosys/usecos-widgets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rivlosys/usecos-widgets/issues"
+  }
+}
